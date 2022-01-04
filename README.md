@@ -1,4 +1,4 @@
-# ascii_mandlebrot
+# ascii_mandelbrot
 ![screenshot](showcase.png)
 ## how to build
 ```
